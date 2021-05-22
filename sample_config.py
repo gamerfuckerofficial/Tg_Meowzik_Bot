@@ -1,7 +1,7 @@
 from os import environ
 
 # To use manual values, change these
-default_bot_token = ""
+default_bot_token = "1784158020:AAE5Z1GrolzyHBtTGc7kxSj3TODYoeWf_-U"
 default_sudo_chat_id =  -1001335262387
 default_owner_id = 1209574071
 
